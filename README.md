@@ -45,18 +45,3 @@ Replace `<YOUR_BOT_TOKEN>` with your real token.
 }
 
 
-
-3. 🐍 Set Up Python Script
-Install required libraries:
-bash
-Copy
-Edit
-python3 -m venv visa-bot-env
-source visa-bot-env/bin/activate
-pip install requests python-dotenv
-Create .env file:
-env
-Copy
-Edit
-TELEGRAM_BOT_TOKEN=your_bot_token_here
-TELEGRAM_CHAT_ID=your_chat_id_here
