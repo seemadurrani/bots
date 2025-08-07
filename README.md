@@ -4,7 +4,7 @@ This guide walks you through creating a Telegram bot and sending automated messa
 
 ---
 
-## 📦 Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - `pip` installed
@@ -13,9 +13,9 @@ This guide walks you through creating a Telegram bot and sending automated messa
 
 ---
 
-## 🛠️ Step-by-Step Setup
+##  Step-by-Step Setup
 
-### 1. 🚀 Create Your Telegram Bot
+### 1. Create Your Telegram Bot
 
 1. Open Telegram.
 2. Search for `@BotFather` and start a chat.
@@ -26,11 +26,11 @@ This guide walks you through creating a Telegram bot and sending automated messa
    - Give it a username (must end with `bot`, like `visa_slot_checker_bot`)
 6. BotFather will reply with your **bot token**:
 
-✅ **Save this token securely.**
+ **Save this token securely.**
 
 ---
 
-### 2. 🧑‍💻 Get Your Chat ID
+### 2.  Get Your Chat ID
 
 1. Open Telegram and send **any message** (like `hi`) to your bot.
 2. Visit the following URL in a browser:
